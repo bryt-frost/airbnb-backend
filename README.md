@@ -1,6 +1,6 @@
 # Welcome to Airbnb Clone backend
 
-This repository contains the frontend code for an Airbnb clone, built using React and Redux. The backend API is built using Django Rest Framework (DRF) and is located in a separate repository.
+This repository contains the backend code for an Airbnb clone, built using React and Redux. The backend API is built using Django Rest Framework (DRF) and is located in a separate repository.
 
 ## Getting Started
 
